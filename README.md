@@ -1,6 +1,8 @@
 # Beagleboard-xM_camera_mt9p031_support_with_DT
 Beagle-xM camera(mt9p031) support with Device Tree prebuilt image
 
+Camera module is Leopard Imaging's LI-5M03
+
 Contents:
 
 1. BOOT:
