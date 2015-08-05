@@ -1,0 +1,1 @@
+uname_r=4.2.0-rc3-armv7-x0
